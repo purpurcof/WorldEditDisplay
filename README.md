@@ -58,7 +58,7 @@ Players can customize their own rendering preferences:
 - Minecraft 1.20 ~ 1.21.x (Paper)
 - Java 21 or higher
 - Required plugins:
-  - [PacketEvents](https://github.com/retrooper/packetevents) 2.9.5+
+  - [PacketEvents](https://github.com/retrooper/packetevents) 2.10.1+
 
 ### Installation
 
@@ -207,7 +207,7 @@ To build the plugin from source:
 mvn clean package
 ```
 
-The compiled jar will be in `target/worldeditdisplay-1.0.0.jar`
+The compiled jar will be in `target/worldeditdisplay-1.0.3.jar`
 
 **Project Structure**
 ```
@@ -288,7 +288,7 @@ WorldEditDisplay 是一個 Minecraft 伺服器端插件，為 WorldEdit 增加�
 - Minecraft 1.20 ~ 1.21.x（Paper）
 - Java 21 或更高版本
 - 必要插件：
-  - [PacketEvents](https://github.com/retrooper/packetevents) 2.9.5+
+  - [PacketEvents](https://github.com/retrooper/packetevents) 2.10.1+
 
 ### 安裝
 
@@ -437,7 +437,7 @@ worldeditdisplay.render.auto-enable: # 登入時自動啟用渲染（預設：tr
 mvn clean package
 ```
 
-編譯後的 jar 檔會在 `target/worldeditdisplay-1.0.0.jar`
+編譯後的 jar 檔會在 `target/worldeditdisplay-1.0.3.jar`
 
 **專案結構**
 ```
